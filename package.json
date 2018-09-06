@@ -1,7 +1,7 @@
 {
   "name": "angular-typescript-webpack",
   "version": "0.1.2",
-  "description": "A seed project for a largescale angular architecture in webpack and typescript",
+  "description": "Simple-todo-app",
   "main": "/",
   "scripts": {
     "start": "webpack --config webpack/webpack.dev.js --watch --NODE_ENV=dev",
